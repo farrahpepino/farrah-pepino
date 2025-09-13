@@ -6,6 +6,10 @@ const Projects = () => {
         <div id="carouselExampleCaptions" class="carousel slide">
             <div class="carousel-inner">  
                 <div class="carousel-item active">
+<<<<<<< HEAD
+=======
+        
+>>>>>>> 84a3fed0533ea5035d360339e07a752f387961cc
                 <img src="/assets/loop.png" class="d-block w-100" alt="..." />
                     <div className='b-mt'>
                     <button className='b-main b-main-hover b'><a href="https://www.youtube.com/watch?v=U8A_GpiDMRo" target="_blank">DEMO</a></button>
