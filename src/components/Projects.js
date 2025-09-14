@@ -7,35 +7,35 @@ const Projects = () => {
             <div class="carousel-inner">  
                 <div class="carousel-item active">
         
-                <img src="/assets/loop.png" class="d-block w-100" alt="project" />
+                <img src="/assets/social-networking-app.png" class="d-block w-100" alt="social-networking-app" />
                     <div className='b-mt'>
                     <button className='b-main b-main-hover b'><a href="https://www.youtube.com/watch?v=U8A_GpiDMRo" target="_blank">DEMO</a></button>
                     <button className='b-main b-main-hover b'><a href='https://github.com/farrahpepino/social-networking-app' target="_blank">CODE</a></button>
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img src="/assets/aia.png" class="d-block w-100" alt="project" />
+                <img src="/assets/ecommerce-app.png" class="d-block w-100" alt="ecommerce-app" />
                     <div className='b-mt'>
                     <button className='b-main b-main-hover b'><a href='https://www.youtube.com/watch?v=AoDgb6FLF0o' target="_blank">DEMO</a></button>
                     <button className='b-main b-main-hover b'><a href='https://github.com/farrahpepino/ecommerce-app' target="_blank">CODE</a></button>
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img src="/assets/amore.png" class="d-block w-100" alt="project" />
+                <img src="/assets/poem-generator.png" class="d-block w-100" alt="poem-generator" />
                     <div className='b-mt'>
                     <button className='b-main b-main-hover b'><a href='https://farrahpepino-poemgenerator.netlify.app/' target="_blank">DEMO</a></button>
                     <button className='b-main b-main-hover b'><a href='https://github.com/farrahpepino/poem-generator' target="_blank">CODE</a></button>
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img src="/assets/weather.png" class="d-block w-100" alt="project" />
+                <img src="/assets/weather-app.png" class="d-block w-100" alt="weather-app" />
                     <div className='b-mt'>
                     <button className='b-main b-main-hover b'><a href='https://farrahpepino-weatherapp.netlify.app/' target="_blank">DEMO</a></button>
                     <button className='b-main b-main-hover b'><a href='https://github.com/farrahpepino/weather-app' target="_blank">CODE</a></button>
                     </div>
                 </div>
                 <div class="carousel-item">
-                <img src="/assets/tala-mobile.png" class="d-block w-100" alt="project" />
+                <img src="/assets/photosharing-app-mobile.png" class="d-block w-100" alt="photosharing-app-mobile" />
                     <div className='b-mt'>
                     <button className='b-main b-main-hover b'><a href='https://www.figma.com/design/ayF3aZh1dVA11O7Edkl9Bh/Archives-FINAL?node-id=0-1&t=JbxM6CBUdYG0jCQc-1' target="_blank">DESIGN</a></button>
                     <button className='b-main b-main-hover b'><a href='https://github.com/farrahpepino/photosharing-app-mobile' target="_blank">CODE</a></button>
